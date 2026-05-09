@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <clipPath id="rc">
+      <rect x="0" y="0" width="128" height="128" rx="22"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rc)">
+    <rect x="0" y="0" width="128" height="128" fill="#89bbf2"/>
+    <rect x="0" y="64" width="128" height="64" fill="#9abef2"/>
+  </g>
+  <text x="64" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="54" font-weight="700" fill="white">AS</text>
+</svg>
